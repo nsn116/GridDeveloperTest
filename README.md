@@ -1,4 +1,4 @@
-**Grid-Developer-Test**
+# Grid Developer Test
 
 The program aims to find the 5 closest events to a location, passed as a pair of coordinates, by the user.
 
