@@ -13,7 +13,7 @@ public class GridDeveloper {
 
 
   // Ticket related constants
-  private static final int MAX_NUM_TICKETS = 15;
+  private static final int MAX_NUM_TICKETS = 20;
   private static final int MIN_TICKET_PRICE = 10;
   // Scaling factor ticket prices
   private static final int SCALING_FACTOR = 40;
